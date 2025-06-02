@@ -1,0 +1,15 @@
+flask
+flask-cors
+nest_asyncio
+yfinance
+groq
+agno
+duckduckgo-search
+newspaper4k
+lxml_html_clean
+sqlalchemy
+psycopg[binary]
+pgvector
+sentence-transformers
+openai
+gunicorn
